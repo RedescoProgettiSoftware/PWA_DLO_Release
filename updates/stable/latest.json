@@ -1,0 +1,23 @@
+{
+    "schema":  2,
+    "channel":  "stable",
+    "version":  "2.0.1",
+    "platform":  "windows-x64",
+    "released_at":  "2026-09-14T14:01:17Z",
+    "notes":  "Aggiunte funzionalità annotazione immagini",
+    "artifact":  {
+                     "url":  "https://github.com/Bjack795/PWA_DLO_Release/releases/download/v2.0.1/InspectionReportMAE-2.0.1-win-x64.maeupdate",
+                     "filename":  "InspectionReportMAE-2.0.1-win-x64.maeupdate",
+                     "size":  5243058,
+                     "sha256":  "dd9439ba24e26b56d496fd9940a03ace3333cab938103dcec115bb217be25cca",
+                     "encryption":  {
+                                        "algorithm":  "AES-256-GCM",
+                                        "key_id":  "inspection-report-mae-c23fc5674552aa4e"
+                                    },
+                     "signature":  {
+                                       "algorithm":  "Ed25519",
+                                       "scope":  "artifact-v1",
+                                       "value":  "b3um8EQ3QVgrnLoQaUqeGfqRL3x+1cNciqwGUKskHeFRhfX/Sf4BReiHivevRZ+2R4LTNju83yUrFSgzCOKMDg=="
+                                   }
+                 }
+}
