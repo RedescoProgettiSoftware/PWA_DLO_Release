@@ -1,15 +1,15 @@
 {
     "schema":  3,
     "channel":  "stable",
-    "version":  "2.0.4",
+    "version":  "2.0.5",
     "platform":  "windows-x64",
-    "released_at":  "2026-09-14T15:48:30Z",
-    "notes":  "Nuove funzionalità",
+    "released_at":  "2026-10-26T10:50:15Z",
+    "notes":  "Aggiunti asterischi per campi obbligatori",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/PWA_DLO_Release/releases/download/v2.0.4/InspectionReportMAE-2.0.4-win-x64.maeupdate",
-                     "filename":  "InspectionReportMAE-2.0.4-win-x64.maeupdate",
+                     "url":  "https://github.com/Bjack795/PWA_DLO_Release/releases/download/v2.0.5/InspectionReportMAE-2.0.5-win-x64.maeupdate",
+                     "filename":  "InspectionReportMAE-2.0.5-win-x64.maeupdate",
                      "size":  15788068,
-                     "sha256":  "f1eb463674e68ae994798cfc8180f04c6190d7177c9c5976f2d6a2dedc65f381",
+                     "sha256":  "7422a6f81c31ccab4bc08c70b92351a42407595a973c06c698de5fc3c4fafd81",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "inspection-report-mae-c23fc5674552aa4e"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "zO2iEkvODz2gHwegeu9FzIOVGQgzAoAJlDkkcoEZoNrQKMFj50/gv4K/EogO8kR47uG2KtwHTl6LFNE1/01RAw=="
+                                       "value":  "xPGpOaAL+k+vqZN4V/950AeIGvLPBHF67WYfkLZwR6cHPsx2qitZ2j0Nuq0KBYzqRe4IURNBXsPy7yMQCeVnBA=="
                                    }
                  }
 }
